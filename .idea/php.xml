@@ -111,6 +111,17 @@
       <path value="$PROJECT_DIR$/src/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/src/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/src/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/src/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/src/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/src/vendor/infyomlabs/laravel-ui-adminlte" />
+      <path value="$PROJECT_DIR$/src/vendor/infyomlabs/laravel-generator-helpers" />
+      <path value="$PROJECT_DIR$/src/vendor/infyomlabs/laravel-generator" />
+      <path value="$PROJECT_DIR$/src/vendor/infyomlabs/adminlte-templates" />
+      <path value="$PROJECT_DIR$/src/vendor/laracasts/flash" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/cache" />
     </include_path>
   </component>
   <component name="PhpInterpreters">

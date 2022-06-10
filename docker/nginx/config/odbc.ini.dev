@@ -1,0 +1,16 @@
+[CMSSAPDB32PROD]
+Driver     = /usr/sap/hdbclient/libodbcHDB.so 
+ServerNode = 10.236.249.157:30015
+Database   = SBO_CMSA_LIVE
+[CMSSAPDB32STAGING]
+Driver     = /usr/sap/hdbclient/libodbcHDB.so 
+ServerNode = 10.236.247.27:30015
+Database   = SBO_CMSA_LIVE
+[CMSSAPDB32PROD_OLD]
+Driver     = /usr/sap/hdbclient/libodbcHDB.so 
+ServerNode = 10.236.242.58:30015
+Database   = SBO_CMSA_LIVE
+[CMSSAPDB32STAGING_OLD]
+Driver     = /usr/sap/hdbclient/libodbcHDB.so 
+ServerNode = 10.236.242.245:30015
+Database   = SBO_CMSA_LIVE_STATIC

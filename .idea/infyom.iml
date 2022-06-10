@@ -121,6 +121,20 @@
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/event-manager" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/dbal" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/yajra/laravel-datatables-oracle" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/maatwebsite/excel" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/yajra/laravel-datatables-html" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/yajra/laravel-datatables-editor" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/yajra/laravel-datatables-buttons" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/yajra/laravel-datatables-fractal" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/yajra/laravel-datatables" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/fractal" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/myclabs/php-enum" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

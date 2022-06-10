@@ -5,3 +5,7 @@
         <p>Home</p>
     </a>
 </li>
+<li class="{{ Request::is('bills*') ? 'active' : '' }}">
+    <a href="{{ route('bills.index') }}"><i class="fa fa-edit"></i><span>Bills</span></a>
+</li>
+
